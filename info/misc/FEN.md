@@ -53,7 +53,7 @@ A FEN record contains six fields. The separator between fields is a space. The f
 
 * /1/ [PGN_standard_1994-03-12.txt](https://ia802908.us.archive.org/26/items/pgn-standard-1994-03-12/PGN_standard_1994-03-12.txt)
 * [/2/]: https://github.com/serrasqueiro/xadrez/tree/master/info/misc/PGN_standard_1994-03-12.txt    "PGN_standard"
-* /2/: Local copy of [PGN_standard] [/2/]
+ /2/: Local copy of [PGN_standard] [/2/]
 * [/3/]: https://github.com/serrasqueiro/xadrez/tree/master/info/misc/PGN_standard_1994-03-12.txt    "PGN_standard en_passant"
-* /3/: PGN standard, _en passant_ -- section 16.2.3.4
+ /3/: PGN standard, _en passant_ -- section 16.2.3.4
 * /10/ about Markdown, and how to make links in Markdown: [here](https://daringfireball.net/projects/markdown/syntax#link)
