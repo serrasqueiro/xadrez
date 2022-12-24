@@ -1,3 +1,6 @@
 [submodule "ext-repo/xadrezbrasil"]
 	path = ext-repo/xadrezbrasil
 	url = ../xadrezbrasil.git
+[submodule "ext-repo/sagas"]
+	path = ext-repo/sagas
+	url = ../sagas.git
