@@ -4,3 +4,6 @@
 [submodule "ext-repo/sagas"]
 	path = ext-repo/sagas
 	url = ../sagas.git
+[submodule "ext-repo/minhas-partidas"]
+	path = ext-repo/minhas-partidas
+	url = ../minhas-partidas.git
