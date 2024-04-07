@@ -7,3 +7,9 @@
 [submodule "ext-repo/minhas-partidas"]
 	path = ext-repo/minhas-partidas
 	url = ../minhas-partidas.git
+[submodule "src-repo/python-chess"]
+	path = src-repo/python-chess
+	url = git@github.com:serrasqueiro/python-chess.git
+[submodule "info/pgn-specs"]
+	path = info/pgn-specs
+	url = git@gist.github.com:5b525a47e65c3e1e3916252df10ed32a.git
