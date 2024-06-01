@@ -13,3 +13,6 @@
 [submodule "info/pgn-specs"]
 	path = info/pgn-specs
 	url = git@gist.github.com:5b525a47e65c3e1e3916252df10ed32a.git
+[submodule "ext-repo/minhas-chess"]
+	path = ext-repo/minhas-chess
+	url = ../minhas-chess
