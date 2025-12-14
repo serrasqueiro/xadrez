@@ -16,3 +16,6 @@
 [submodule "ext-repo/minhas-chess"]
 	path = ext-repo/minhas-chess
 	url = ../minhas-chess
+[submodule "info/fun-chess"]
+	path = info/fun-chess
+	url = ../fun-chess.git
